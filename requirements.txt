@@ -1,0 +1,6 @@
+gradio
+diskcache
+pydub
+librosa
+soundfile
+pyloudnorm
